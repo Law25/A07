@@ -13,10 +13,10 @@ h1 {
 	color: navy;
 }
 img  {
-	float: left;
+	clear:right;
 	margin: 0 1em;
 }
 p {
 	margin: 0;
 	padding-bottom: .5em;
-}
+	}
